@@ -20,10 +20,10 @@ Core Interests: Data-driven atmospheric research, environmental modeling, and sp
 
 ## 🛠️ Technical Toolkit
 
-* **Programming & Modeling:** Python, Fortran, Docker
+* **Programming & Modelling:** Python, Fortran, SQL, Linux/Bash
 * **Data & Spatial Libraries:** `netCDF4`, `Xarray`, `scikit-learn`, `Matplotlib`, `Pandas`
-* **Models & Datasets:** WRF (Weather Research and Forecasting), ERA5 Reanalysis, CERRA
-* **Domain Focus:** Numerical Weather Prediction (NWP), Atmospheric Dynamics, Marine Meteorology
+* **Models & Datasets:** WRF (Weather Research and Forecasting), Flexpart-WRF, Snowpack, QGIS, ArcGIS, ERA5 Reanalysis
+* **Domain Focus:** Numerical Weather Prediction (NWP), Atmospheric Dynamics, Marine Meteorology, Mountain & Winter Meteorology
 
 
 
