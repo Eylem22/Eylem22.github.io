@@ -7,37 +7,39 @@ redirect_from:
   - /resume
 ---
 
-## 🎓 EDUCATION
-Istanbul Technical University (ITU)
-Climate Science and Meteorological Engineering
-3rd Year | 
-Expected Graduation: 2028
+## 🎓 EDUCATION<br>
+Istanbul Technical University (ITU)           <br>
+Climate Science and Meteorological Engineering<br>               
+3rd Year |                          <br>
+Expected Graduation: 2028                      
 
-## TECHNICAL SKILLS
-Programming & Analysis
-Python (NumPy, Pandas, Matplotlib, Xarray, MetPy)
-Linux/Bash
-SQL
-Basic Fortran/ C++
-Matplotlib, Cartopy
-WRF
-QGIS
-Tools
-Visualization & GIS
-Vapor
-Paraview
-Flexpart-wrf
-Hec-Hms/Hec-Ras
-Snowpack
+## TECHNICAL SKILLS                      <br>
+### Programming & Analysis                       <br>
+* Python (NumPy, Pandas, Matplotlib, Xarray, MetPy)<br>                   
+* Linux/Bash       <br>
+* SQL            <br>
+* Basic Fortran/ C++     <br>                         
+* Matplotlib, Cartopy<br>          
+* WRF           <br>
+* QGIS                 
 
-## LANGUAGES
-English C1
-Turkish Native
+### Tools    <br>
+
+### Visualization & GIS<br>     
+* Vapor     <br>
+* Paraview       <br>
+* Flexpart-wrf     <br>
+* Hec-Hms/Hec-Ras  <br>    
+* Snowpack     
+
+## LANGUAGES   <br>
+English C1 <br>       
+Turkish Native      
 
 ## ✉️ Get in Touch
-**Email:** [akkustureylem@gmail.com]
-**GitHub:** [https://github.com/Eylem22]
-**LinkedIn:** [Eylem Akkuştur | LinkedIn]
+**Email:** [akkustureylem@gmail.com] <br>                   
+**GitHub:** [https://github.com/Eylem22]<br>                            
+**LinkedIn:** [Eylem Akkuştur | LinkedIn]                           
 
 ## 🚀 Featured Projects
 
