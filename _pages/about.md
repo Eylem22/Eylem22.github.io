@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -24,6 +24,8 @@ Core Interests: Data-driven atmospheric research, environmental modeling, and sp
 * **Data & Spatial Libraries:** `netCDF4`, `Xarray`, `scikit-learn`, `Matplotlib`, `Pandas`,  `Numpy`, `Metpy`, `Cartopy`,
 * **Models & Datasets:** WRF (Weather Research and Forecasting), Flexpart-WRF, Snowpack, QGIS, ArcGIS, ERA5 Reanalysis
 * **Domain Focus:** Numerical Weather Prediction (NWP), Atmospheric Dynamics, Marine Meteorology, Mountain & Winter Meteorology
+
+
 
 
 
