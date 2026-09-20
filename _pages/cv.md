@@ -7,58 +7,45 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+## 🎓 EDUCATION
+Istanbul Technical University (ITU)
+Climate Science and Meteorological Engineering
+3rd Year | 
+Expected Graduation: 2028
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## TECHNICAL SKILLS
+Programming & Analysis
+Python (NumPy, Pandas, Matplotlib, Xarray, MetPy)
+Linux/Bash
+SQL
+Basic Fortran/ C++
+Matplotlib, Cartopy
+WRF
+QGIS
+Tools
+Visualization & GIS
+Vapor
+Paraview
+Flexpart-wrf
+Hec-Hms/Hec-Ras
+Snowpack
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## LANGUAGES
+English C1
+Turkish Native
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## ✉️ Get in Touch
+**Email:** [akkustureylem@gmail.com]
+**GitHub:** [https://github.com/Eylem22]
+**LinkedIn:** [Eylem Akkuştur | LinkedIn]
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## 🚀 Featured Projects
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+### Extreme Wind Risk Analysis – Marmara Region
+Developed an extreme wind risk analysis for the Marmara region using ERA5 data, applying GEV, Gumbel, L-moments, and GPD methods to estimate 50-year return levels. Generated spatial risk maps and evaluated model uncertainty using bootstrap techniques.
+
+### 🌊 Maritime Wind & Wave Risk Modeling
+Maritime Regression Modeling: Designed a professional multivariate model to predict significant wave heights using ERA5 reanalysis data. Utilized Python for data processing and performed comprehensive statistical error analysis to ensure model robustness in the Marmara and Aegean maritime corridors.
+
+### ❄️ Avalanche Susceptibility Mapping (Ongoing)
+ Developing a dynamic risk assessment framework for Norway and Eastern Turkey by integrating ERA5-Land meteorological data with Digital Elevation Models (DEM). The project utilizes Python for multi-source data fusion and employs Vapor, Paraview, and Blender for 4D terrain modeling and snow-pack simulations to enhance operational safety in high-altitude regions.
